@@ -1,0 +1,82 @@
+{
+  "lang": "en",
+  "locale": "en-US",
+  "dir": "ltr",
+  "meta": {
+    "title": "Remove Image Background Free Online - AI Background Remover",
+    "description": "Remove image background instantly with AI. Free online background remover - no signup required. Perfect for product photos, portraits & more. Download in seconds.",
+    "keywords": "remove background, background remover, remove image background, transparent background, AI background removal, free background remover"
+  },
+  "nav": {
+    "logo": "BG Remover",
+    "how": "How it works",
+    "privacy": "Privacy"
+  },
+  "hero": {
+    "badge": "100% Free · No signup required",
+    "title": "Remove Image Background",
+    "subtitle": "in Seconds",
+    "description": "AI-powered background removal. Upload your image and get a clean transparent PNG instantly."
+  },
+  "upload": {
+    "title": "Upload your image",
+    "drag": "Drag & drop your image here",
+    "or": "or",
+    "button": "Choose Image",
+    "formats": "Supports JPG, PNG, WEBP · Max 25MB",
+    "processing": "Removing background...",
+    "hint": "Click anywhere or drag an image to get started"
+  },
+  "result": {
+    "title": "Background Removed!",
+    "download": "Download PNG",
+    "tryAnother": "Try Another Image",
+    "original": "Original",
+    "result": "Result"
+  },
+  "features": {
+    "title": "Why choose our tool?",
+    "items": [
+      { "icon": "⚡", "title": "Lightning Fast", "desc": "Get results in under 5 seconds powered by AI" },
+      { "icon": "🎯", "title": "Precise Cutout", "desc": "AI detects hair, fur, and complex edges accurately" },
+      { "icon": "🔒", "title": "100% Private", "desc": "Images are processed and deleted immediately" },
+      { "icon": "💎", "title": "HD Quality", "desc": "Download full resolution transparent PNG files" }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "Is this background remover free?",
+        "a": "Yes, completely free. No account, no watermark, no hidden fees."
+      },
+      {
+        "q": "What image formats are supported?",
+        "a": "We support JPG, PNG, and WEBP files up to 25MB."
+      },
+      {
+        "q": "Are my images stored on your servers?",
+        "a": "No. Images are processed in real-time and deleted immediately after. We never store your images."
+      },
+      {
+        "q": "What's the output format?",
+        "a": "All processed images are returned as PNG files with transparent backgrounds."
+      }
+    ]
+  },
+  "privacy": {
+    "badge": "🔒 Your privacy is protected",
+    "text": "Images are processed securely and deleted immediately after download. We never store or share your images."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "errors": {
+    "fileType": "Please upload a JPG, PNG, or WEBP image.",
+    "fileSize": "File size must be under 25MB.",
+    "apiError": "Processing failed. Please try again.",
+    "networkError": "Network error. Please check your connection."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "lang": "de",
+  "locale": "de-DE",
+  "dir": "ltr",
+  "meta": {
+    "title": "Bildhintergrund Kostenlos Entfernen - KI Hintergrundentferner Online",
+    "description": "Entfernen Sie Bildhintergründe sofort mit KI. Kostenloses Online-Tool ohne Anmeldung. Ideal für Produktfotos, Porträts und mehr.",
+    "keywords": "Hintergrund entfernen, Hintergrundentferner, Bild Hintergrund entfernen, transparenter Hintergrund, KI Hintergrundentfernung, kostenlos"
+  },
+  "nav": {
+    "logo": "BG Entferner",
+    "how": "So funktioniert's",
+    "privacy": "Datenschutz"
+  },
+  "hero": {
+    "badge": "100% Kostenlos · Keine Anmeldung",
+    "title": "Bildhintergrund",
+    "subtitle": "Entfernen",
+    "description": "KI-gestützte Hintergrundentfernung. Laden Sie Ihr Bild hoch und erhalten Sie sofort ein transparentes PNG."
+  },
+  "upload": {
+    "title": "Bild hochladen",
+    "drag": "Bild hier hineinziehen",
+    "or": "oder",
+    "button": "Bild auswählen",
+    "formats": "Unterstützt JPG, PNG, WEBP · Max 25MB",
+    "processing": "Hintergrund wird entfernt...",
+    "hint": "Klicken oder Bild hineinziehen um zu starten"
+  },
+  "result": {
+    "title": "Hintergrund entfernt!",
+    "download": "PNG herunterladen",
+    "tryAnother": "Anderes Bild versuchen",
+    "original": "Original",
+    "result": "Ergebnis"
+  },
+  "features": {
+    "title": "Warum unser Tool wählen?",
+    "items": [
+      { "icon": "⚡", "title": "Blitzschnell", "desc": "Ergebnisse in unter 5 Sekunden dank KI" },
+      { "icon": "🎯", "title": "Präziser Ausschnitt", "desc": "KI erkennt Haare, Fell und komplexe Kanten genau" },
+      { "icon": "🔒", "title": "100% Privat", "desc": "Bilder werden sofort verarbeitet und gelöscht" },
+      { "icon": "💎", "title": "HD-Qualität", "desc": "Transparente PNG-Dateien in voller Auflösung" }
+    ]
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "q": "Ist dieser Hintergrundentferner kostenlos?",
+        "a": "Ja, völlig kostenlos. Kein Konto, kein Wasserzeichen, keine versteckten Gebühren."
+      },
+      {
+        "q": "Welche Bildformate werden unterstützt?",
+        "a": "Wir unterstützen JPG, PNG und WEBP-Dateien bis zu 25MB."
+      },
+      {
+        "q": "Werden meine Bilder auf Ihren Servern gespeichert?",
+        "a": "Nein. Bilder werden in Echtzeit verarbeitet und sofort gelöscht. Wir speichern Ihre Bilder niemals."
+      },
+      {
+        "q": "Was ist das Ausgabeformat?",
+        "a": "Alle verarbeiteten Bilder werden als PNG-Dateien mit transparentem Hintergrund zurückgegeben."
+      }
+    ]
+  },
+  "privacy": {
+    "badge": "🔒 Ihre Privatsphäre ist geschützt",
+    "text": "Bilder werden sicher verarbeitet und nach dem Download sofort gelöscht. Wir speichern oder teilen Ihre Bilder niemals."
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen"
+  },
+  "errors": {
+    "fileType": "Bitte laden Sie ein JPG-, PNG- oder WEBP-Bild hoch.",
+    "fileSize": "Die Dateigröße muss unter 25MB liegen.",
+    "apiError": "Verarbeitung fehlgeschlagen. Bitte erneut versuchen.",
+    "networkError": "Netzwerkfehler. Bitte überprüfen Sie Ihre Verbindung."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "lang": "fr",
+  "locale": "fr-FR",
+  "dir": "ltr",
+  "meta": {
+    "title": "Supprimer l'Arrière-Plan Gratuitement en Ligne - Suppresseur IA",
+    "description": "Supprimez l'arrière-plan de vos images instantanément avec l'IA. Outil gratuit sans inscription. Parfait pour les photos de produits, portraits et plus.",
+    "keywords": "supprimer arrière-plan, enlever fond image, fond transparent, suppresseur de fond IA, supprimer fond gratuit"
+  },
+  "nav": {
+    "logo": "Suppr. Fond",
+    "how": "Comment ça marche",
+    "privacy": "Confidentialité"
+  },
+  "hero": {
+    "badge": "100% Gratuit · Sans inscription",
+    "title": "Supprimez l'Arrière-Plan",
+    "subtitle": "de vos Images",
+    "description": "Suppression d'arrière-plan par IA. Téléchargez votre image et obtenez un PNG transparent instantanément."
+  },
+  "upload": {
+    "title": "Téléchargez votre image",
+    "drag": "Glissez-déposez votre image ici",
+    "or": "ou",
+    "button": "Choisir une Image",
+    "formats": "Supporte JPG, PNG, WEBP · Max 25Mo",
+    "processing": "Suppression du fond en cours...",
+    "hint": "Cliquez ou glissez une image pour commencer"
+  },
+  "result": {
+    "title": "Arrière-plan supprimé !",
+    "download": "Télécharger PNG",
+    "tryAnother": "Essayer une autre image",
+    "original": "Original",
+    "result": "Résultat"
+  },
+  "features": {
+    "title": "Pourquoi choisir notre outil ?",
+    "items": [
+      { "icon": "⚡", "title": "Ultra Rapide", "desc": "Résultats en moins de 5 secondes grâce à l'IA" },
+      { "icon": "🎯", "title": "Découpe Précise", "desc": "L'IA détecte les cheveux, poils et contours complexes" },
+      { "icon": "🔒", "title": "100% Privé", "desc": "Les images sont traitées et supprimées immédiatement" },
+      { "icon": "💎", "title": "Haute Qualité", "desc": "Téléchargez des PNG transparents en haute résolution" }
+    ]
+  },
+  "faq": {
+    "title": "Questions Fréquentes",
+    "items": [
+      {
+        "q": "Ce suppresseur de fond est-il gratuit ?",
+        "a": "Oui, totalement gratuit. Sans compte, sans filigrane, sans frais cachés."
+      },
+      {
+        "q": "Quels formats d'image sont supportés ?",
+        "a": "Nous supportons les fichiers JPG, PNG et WEBP jusqu'à 25Mo."
+      },
+      {
+        "q": "Mes images sont-elles stockées sur vos serveurs ?",
+        "a": "Non. Les images sont traitées en temps réel et supprimées immédiatement. Nous ne stockons jamais vos images."
+      },
+      {
+        "q": "Quel est le format de sortie ?",
+        "a": "Toutes les images traitées sont renvoyées en PNG avec un fond transparent."
+      }
+    ]
+  },
+  "privacy": {
+    "badge": "🔒 Votre vie privée est protégée",
+    "text": "Les images sont traitées de manière sécurisée et supprimées immédiatement après téléchargement. Nous ne stockons ni ne partageons jamais vos images."
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation"
+  },
+  "errors": {
+    "fileType": "Veuillez télécharger une image JPG, PNG ou WEBP.",
+    "fileSize": "La taille du fichier doit être inférieure à 25Mo.",
+    "apiError": "Échec du traitement. Veuillez réessayer.",
+    "networkError": "Erreur réseau. Vérifiez votre connexion."
+  }
+}

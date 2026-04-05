@@ -1,0 +1,82 @@
+{
+  "lang": "es",
+  "locale": "es-ES",
+  "dir": "ltr",
+  "meta": {
+    "title": "Eliminar Fondo de Imagen Gratis Online - Borrador de Fondo con IA",
+    "description": "Elimina el fondo de tus imágenes al instante con IA. Herramienta gratuita sin registro. Perfecta para fotos de productos, retratos y más.",
+    "keywords": "eliminar fondo, quitar fondo imagen, fondo transparente, borrador de fondo IA, eliminar fondo gratis"
+  },
+  "nav": {
+    "logo": "Borrar Fondo",
+    "how": "Cómo funciona",
+    "privacy": "Privacidad"
+  },
+  "hero": {
+    "badge": "100% Gratis · Sin registro",
+    "title": "Elimina el Fondo",
+    "subtitle": "de tu Imagen",
+    "description": "Eliminación de fondo con inteligencia artificial. Sube tu imagen y obtén un PNG transparente al instante."
+  },
+  "upload": {
+    "title": "Sube tu imagen",
+    "drag": "Arrastra y suelta tu imagen aquí",
+    "or": "o",
+    "button": "Elegir Imagen",
+    "formats": "Admite JPG, PNG, WEBP · Máx 25MB",
+    "processing": "Eliminando fondo...",
+    "hint": "Haz clic o arrastra una imagen para empezar"
+  },
+  "result": {
+    "title": "¡Fondo eliminado!",
+    "download": "Descargar PNG",
+    "tryAnother": "Probar otra imagen",
+    "original": "Original",
+    "result": "Resultado"
+  },
+  "features": {
+    "title": "¿Por qué elegir nuestra herramienta?",
+    "items": [
+      { "icon": "⚡", "title": "Ultra Rápido", "desc": "Resultados en menos de 5 segundos con IA" },
+      { "icon": "🎯", "title": "Recorte Preciso", "desc": "La IA detecta cabello, pelo y bordes complejos con precisión" },
+      { "icon": "🔒", "title": "100% Privado", "desc": "Las imágenes se procesan y eliminan de inmediato" },
+      { "icon": "💎", "title": "Alta Calidad", "desc": "Descarga archivos PNG transparentes en alta resolución" }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "q": "¿Es gratuito este eliminador de fondos?",
+        "a": "Sí, completamente gratis. Sin cuenta, sin marca de agua, sin cargos ocultos."
+      },
+      {
+        "q": "¿Qué formatos de imagen admite?",
+        "a": "Admitimos archivos JPG, PNG y WEBP de hasta 25MB."
+      },
+      {
+        "q": "¿Mis imágenes se almacenan en sus servidores?",
+        "a": "No. Las imágenes se procesan en tiempo real y se eliminan inmediatamente. Nunca almacenamos tus imágenes."
+      },
+      {
+        "q": "¿Cuál es el formato de salida?",
+        "a": "Todas las imágenes procesadas se devuelven como archivos PNG con fondos transparentes."
+      }
+    ]
+  },
+  "privacy": {
+    "badge": "🔒 Tu privacidad está protegida",
+    "text": "Las imágenes se procesan de forma segura y se eliminan inmediatamente después de la descarga. Nunca almacenamos ni compartimos tus imágenes."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "errors": {
+    "fileType": "Por favor sube una imagen JPG, PNG o WEBP.",
+    "fileSize": "El tamaño del archivo debe ser inferior a 25MB.",
+    "apiError": "Error al procesar. Por favor, inténtalo de nuevo.",
+    "networkError": "Error de red. Comprueba tu conexión."
+  }
+}
